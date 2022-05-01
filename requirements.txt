@@ -1,5 +1,4 @@
-# Editable Git install with no remote (a3data-case==1.0)
--e /home/ds-gustavo-cunha/Projects/a3data_case
+-e git+ssh://git@github.com/ds-gustavo-cunha/A3Data-Case.git@6bbc98374a97af3b316e928b7ca5d8b082b7246a#egg=a3data_case
 asttokens==2.0.5
 backcall==0.2.0
 cycler==0.11.0

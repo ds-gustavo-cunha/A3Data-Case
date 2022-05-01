@@ -123,7 +123,7 @@ SP is a key state when trying to reduce the total number of accidents in Brasil.
 ![insight_02](img/insight_02.png)
 
 *Possible actionable:
-There is not a large difference in the number of accidents among different seasons. So, campaigns ought to be consistent throughout the year to achieve meaningful results in terms of accident reduction.*
+There is some difference between number of accidents in different seasons; however, this difference is not very large. In this could indicate that campaigns ought to be consistent throughtout the year in order to achieve meaningful results in terms of accident reduction.*
 
 - **Hypothesis III: the number of accidents with private aircraft is more than 70% of the total number of accidents.**
 
@@ -137,15 +137,23 @@ Private aircraft alone corresponds to more than 30% of the total number of accid
 
 # **BUSINESS SOLUTION**
 
-- the code used for this case on GitHub
+- the **code** used for this case on GitHub
 
-- a pdf presentation with (1) the presentation of the challenge, (2) an explanation of the process used, (3) hypotheses raised, (4) exploratory analysis and (5) conclusions and insights generated
 
+- a pdf **presentation** with:
+  - (1) the presentation of the **challenge**; 
+  - (2) an explanation of the **process** used; 
+  - (3) **hypotheses raised**;
+  - (4) **exploratory analysis**; and 
+  - (5) **conclusions** and **insights** generated
+  
 # **CONCLUSIONS**
 
 Not all data science projects require modelling, this job application case is a clear example.
 
 Doing a project with a very strict deadline (48 hours) not only requires good **time management** skills but also good **task prioritization** skills.
+
+Without a clear **business problem** and **context**, it is much harder to **guide** what are the best **decisions** to make, and what **assumptions to raise** and **explore** the data to achieve **meaningful insights**. To overcome all of this, we decided to create a business context around this project.
 
 # **LESSONS LEARNED**
 
@@ -165,6 +173,6 @@ How to plan the **storytelling** to make the project accessible to others.
 
 **Database**: research for a better description of every column in the database to further understand (and use) available data.
 
-**Feature Engineering**: explore feature creating to find out new relevant features for the project solution.
+**Feature Engineering**: explore feature creating to find out new relevant features (and metrics) for the project solution.
 
 **Storytelling**: get feedback for the first presentation and use it to improve the storytelling template for the next cycle.

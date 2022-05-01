@@ -52,6 +52,7 @@ def numerical_plot( dataframe, column, figsize = (8, 7), hist = True ):
     return None
 
 
+
 def categorical_plot( df_cat, n_cols = 3, countplot = True, figsize = None ):
     '''
     Plot histogram for all features in the dataframe. 
@@ -108,6 +109,7 @@ def categorical_plot( df_cat, n_cols = 3, countplot = True, figsize = None ):
     return None
 
 
+
 def cramer_v_corrected_stat( series_one, series_two ):
     '''
     Calculate crame v statistics for two categorical series 
@@ -148,6 +150,7 @@ def cramer_v_corrected_stat( series_one, series_two ):
    
     
     return corr_cramer_v
+
 
 
 def create_cramer_v_dataframe( categ_features_analysis_dataframe ):

@@ -46,4 +46,5 @@ def downcast_dataframe(df, verbose=True):
               f"\nInitial dataframe size: {input_size / 1000000:,.2f} MB",
               f"\nFinal dataframe size: {output_size / 1000000:,.2f} MB")
 
+
     return df

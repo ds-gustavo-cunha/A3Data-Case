@@ -29,4 +29,5 @@ def initial_settings():
     # set figures to seaborn style
     plt.style.use('ggplot')
 
+
     return None
